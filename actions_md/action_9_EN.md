@@ -1,8 +1,10 @@
 # Support for organising conferences
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
-**Partial support for the costs of organising a scientific colloquium** (or seminar / conference / summer school / congress / ...).
+*Partial support for the costs of organising a scientific colloquium* (or seminar / conference / summer school / congress / ...).
 
 ## Proposed funding
 

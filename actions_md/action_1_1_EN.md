@@ -2,8 +2,8 @@
 
 ## Objective
 
-**Award for publishing a scientific article** in an internationally renowned journal or in the proceedings of a conference ranked A or A*.
-This action aims to **promote scientific collaboration** between several teams (intra- or inter-university) around one of INFORTECH's research themes.
+**Bonus for publishing a scientific article** in an internationally renowned journal or in the proceedings of a conference ranked A or A*.
+This action aims to *promote scientific collaboration* between several teams (intra- or inter-university) around one of INFORTECH's research themes.
 
 ## Proposed funding
 
@@ -12,7 +12,7 @@ This action aims to **promote scientific collaboration** between several teams (
 
 ## Deadline
 
-Award request at most 6 months after the article's publication date.
+This bonus must be requested *at most 6 months* after the article's publication date.
 
 ## Criteria
 

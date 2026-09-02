@@ -1,7 +1,8 @@
-# INFORTECH 2027 co-funding actions
+# UMONS INFORTECH co-funding actions
 
 [[Lire en français ici]](overview_FR.md)
 
+## List of actions for 2027
 1. Support for scientific publications
    1. [Scientific collaboration award](actions_md/action_1_1_EN.md)
    2. [Support for Open Access publications](actions_md/action_1_2_EN.md)
@@ -18,3 +19,8 @@
    3. [Mobility IN: tax-exempt postdoctoral grant](actions_md/action_7_3_EN.md)
 8. [Short-term visits of foreign researchers](actions_md/action_8_EN.md)
 9. [Support for organising conferences](actions_md/action_9_EN.md)
+
+## Internal accounts to be used for accepted requests
+
+- Functioning: R300PR001
+- Human ressources: R300PRH01

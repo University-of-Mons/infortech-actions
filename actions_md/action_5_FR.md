@@ -1,8 +1,10 @@
 # Bourse de doctorat partiellement financée
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
-**Bourse de doctorat partiellement financée permettant de repêcher un bon candidat ayant introduit une demande éligible dans le cadre de l'appel CRECH.**
+*Bourse de doctorat partiellement financée permettant de repêcher un bon candidat ayant introduit une demande éligible dans le cadre de l'appel CRECH.*
 
 ## Financement proposé
 

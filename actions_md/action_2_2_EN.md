@@ -1,4 +1,6 @@
-# Scientific mission support: Presentation at a conference abroad
+# Presentation at a scientific conference abroad
+
+[[Back to overview of all actions]](../README.md)
 
 ## Objective
 

@@ -1,4 +1,6 @@
-# Aide mission scientifique : Présentation virtuelle à un congrès international
+# Présentation virtuelle à un congrès international
+
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
 
 ## Objectif
 

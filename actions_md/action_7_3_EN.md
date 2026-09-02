@@ -1,8 +1,8 @@
-# Mobility IN/OUT: Mobility IN: tax-exempt postdoctoral grant
+# Tax-exempt incoming postdoctoral scholarship
 
 ## Objective
 
-**Hosting of post-docs in the form of a tax-exempt postdoctoral grant.**
+*Hosting of post-docs in the form of a tax-exempt postdoctoral grant.*
 
 ## Proposed funding
 

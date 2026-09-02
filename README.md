@@ -26,7 +26,7 @@
 - All requests must be related to INFORTECH’s research themes and will be reviewed on a case-by-case basis depending on the available budget.
 - Requests involving a significant budget are available only to labs involved for at least 30% in INFORTECH. Other requests are also available to all INFORTECH labs.
 - The BDIR (Executive Board) processes all requests not exceeding €600. Any request exceeding €600 and satisfying the eligibility criteria must be approved by the CDIR (Council of Directors) based on a proposal from the BDIR. The decision is made by a simple majority.
-- Requests that require approval by the CDIR must be submitted at least two months in advance, unless otherwise specified in the specific action. If the time constraints cannot be met for reasons beyond the applicant’s control, the BDIR may nevertheless decide to accept late requests on an exceptional basis.
+- Requests that require approval by the CDIR must be submitted at least two months in advance, unless otherwise specified in the specific action. If the time constraints cannot be met for well-justified reasons beyond the applicant’s control, the BDIR may nevertheless decide to accept late requests on an exceptional basis.
   
 ## Internal accounts to be used for accepted requests
 

@@ -1,4 +1,6 @@
-# Mobility IN/OUT: Mobility OUT: research stay (for doctoral student or post-doc)
+# Research stay abroad (for doctoral student or post-doc)
+
+[[Back to overview of all actions]](../README.md)
 
 ## Objective
 

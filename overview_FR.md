@@ -1,4 +1,4 @@
-# Actions de co-financement INFORTECH
+# Actions de co-financement INFORTECH UMONS
 
 [[read English version here]](README.md)
 

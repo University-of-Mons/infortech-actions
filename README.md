@@ -12,7 +12,7 @@
 3. [Bridging grant](actions_md/action_3_EN.md)
 4. [Research initiation grant](actions_md/action_4_EN.md)
 5. [Partially funded doctoral grant](actions_md/action_5_EN.md)
-6. [Thesis completion grant](actions_md/action_6_EN.md)
+6. [Phd thesis completion scholarship](actions_md/action_6_EN.md)
 7. Mobility IN/OUT
    1. [Research stay abroad (for doctoral student or post-doc)](actions_md/action_7_1_EN.md)
    2. [Accommodation and travel costs for incoming post-doc](actions_md/action_7_2_EN.md)

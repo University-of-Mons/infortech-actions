@@ -1,4 +1,6 @@
-# Scientific mission support: Virtual presentation at an international conference
+# Virtual presentation at an international conference
+
+[[Back to overview of all actions]](../README.md)
 
 ## Objective
 

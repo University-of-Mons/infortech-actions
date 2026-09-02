@@ -1,8 +1,10 @@
-# Mobilité IN/OUT : Mobilité IN : bourse postdoctorale défiscalisée
+# Bourse postdoctorale défiscalisée
+
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
 
 ## Objectif
 
-**Accueil de post-docs sous forme d'une bourse postdoctorale défiscalisée.**
+*Accueil de post-docs sous forme d'une bourse postdoctorale défiscalisée.*
 
 ## Financement proposé
 

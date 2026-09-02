@@ -1,4 +1,4 @@
-# Overview of INFORTECH 2026 co-funding actions
+# INFORTECH 2027 co-funding actions
 
 [[Lire en français ici]](overview_FR.md)
 

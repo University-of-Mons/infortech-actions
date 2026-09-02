@@ -2,7 +2,7 @@
 
 ## Objective
 
-**Award for a scientific article** published in an internationally renowned journal or in the proceedings of a conference ranked A or A*.
+**Award for publishing a scientific article** in an internationally renowned journal or in the proceedings of a conference ranked A or A*.
 This action aims to **promote scientific collaboration** between several teams (intra- or inter-university) around one of INFORTECH's research themes.
 
 ## Proposed funding

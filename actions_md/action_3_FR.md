@@ -1,8 +1,10 @@
 # Bourse d'amorçage
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
-**Bourses d'amorçage FRIA/FRESH (3 mois)** destinées à couvrir la période du 1er octobre au 31 décembre qui sépare la demande de bourse de son attribution.
+*Bourses d'amorçage FRIA/FRESH (3 mois)* destinées à couvrir la période du 1er octobre au 31 décembre qui sépare la demande de bourse de son attribution.
 
 ## Financement proposé
 

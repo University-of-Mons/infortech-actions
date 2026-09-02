@@ -1,6 +1,6 @@
 # Aperçu des actions de co-financement INFORTECH 2026
 
-[[read English version here]](index.md)
+[[read English version here]](README.md)
 
 1. Soutien pour les publications scientifiques
    1. [Prime à la collaboration scientifique](actions_md/action_1_1_FR.md)

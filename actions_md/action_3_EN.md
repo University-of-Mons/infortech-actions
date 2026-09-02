@@ -1,5 +1,7 @@
 # Bridging grant
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
 **FRIA/FRESH bridging grants (3 months)** intended to cover the period from 1 October to 31 December that separates the grant application from its award.

@@ -1,5 +1,7 @@
 # Short-term visits of foreign researchers
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
 **Short-term visits of foreign researchers** (also applicable to doctoral researchers) to collaborate with one or more INFORTECH departments.

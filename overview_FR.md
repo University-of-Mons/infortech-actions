@@ -15,9 +15,9 @@
 5. [Bourse de doctorat partiellement financée](actions_md/action_5_FR.md)
 6. [Bourse de fin de thèse](actions_md/action_6_FR.md)
 7. Mobilité IN/OUT
-   1. [Mobilité OUT : séjour de recherche (pour doctorant ou post-doc)](actions_md/action_7_1_FR.md)
-   2. [Mobilité IN : intervention dans les frais de logement et déplacement (pour post-doc)](actions_md/action_7_2_FR.md)
-   3. [Mobilité IN : bourse postdoctorale défiscalisée](actions_md/action_7_3_FR.md)
+   1. [Séjour de recherche à l'étranger (pour doctorant ou post-doc)](actions_md/action_7_1_FR.md)
+   2. [Intervention dans les frais de logement et déplacement (pour visiteurs post-doc)](actions_md/action_7_2_FR.md)
+   3. [Bourse postdoctorale défiscalisée](actions_md/action_7_3_FR.md)
 8. [Visites de courte durée de chercheurs étrangers](actions_md/action_8_FR.md)
 9. [Intervention dans l'organisation des colloques](actions_md/action_9_FR.md)
 10. **Demande exceptionnelle**: Toute demande qui ne correspond pas à une des actions listées ci-dessus peut toujours être proposée au BDIR, qui analysera la demande en fonction du budget disponible et de l’adéquation avec les thématiques de recherche INFORTECH.

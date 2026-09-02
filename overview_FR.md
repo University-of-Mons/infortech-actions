@@ -22,6 +22,14 @@
 9. [Intervention dans l'organisation des colloques](actions_md/action_9_FR.md)
 10. **Demande exceptionnelle**: Toute demande qui ne correspond pas à une des actions listées ci-dessus peut toujours être proposée au BDIR, qui analysera la demande en fonction du budget disponible et de l’adéquation avec les thématiques de recherche INFORTECH.
 
+
+## Processus de décision
+
+- Toute demande doit être en lien avec les thématiques de recherche INFORTECH, et sera analysée au cas par cas en fonction du budget disponible.
+- Les actions ayant un coût budgétaire important sont uniquement disponibles pour les services membres d'INFORTECH  ayant une implication d'au moins 30%. Les autres actions sont également accessibles aux autres services membres.
+- Le BDIR (Bureau de Direction) traite toutes les demandes qui ne dépassent pas une intervention maximale de 600€. Toute demande pour une intervention supérieure à 600€ doit être approuvé par le CDIR (Conseil de Direction basée sur une proposition par le BDIR après examination des critères d'éligibilité. Le décision ce fait sur base d'une majorité simple.
+- Les demandes d'intervention devant être approuvée par le CDIR doivent être soumises au moins 2 mois à l'avance, sauf si stipulé différemment dans l'action. Si les contraintes de temps ne peuvent pas être respectés indépendamment de la volonté du demandeur, le BDIR peut néanmoins décider d'accepter des demandes tardives de manière exceptionnelle.
+  
 ## Imputations INFORTECH à utiliser pour les demandes approuvées
 
 - Fonctionnement: R300PR001

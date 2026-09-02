@@ -1,4 +1,4 @@
-# Aperçu des actions de co-financement INFORTECH 2026
+# Actions de co-financement INFORTECH 2027
 
 [[read English version here]](README.md)
 

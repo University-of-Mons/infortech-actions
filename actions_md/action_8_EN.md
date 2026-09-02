@@ -4,7 +4,8 @@
 
 ## Objective
 
-**Short-term visits of foreign researchers** (also applicable to doctoral researchers) to collaborate with one or more INFORTECH departments.
+*Short-term visits of foreign researchers* to collaborate with one or more INFORTECH departments.
+This scheme is also applicable to PhD students.
 
 ## Proposed funding
 

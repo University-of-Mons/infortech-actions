@@ -1,8 +1,10 @@
 # Intervention dans l'organisation des colloques
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
-**Intervention partielle dans les frais d'organisation d'un colloque scientifique** (ou séminaire / conférence / école d'été / congrès / ...).
+*Intervention partielle dans les frais d'organisation d'un colloque scientifique* (ou séminaire / conférence / école d'été / congrès / ...).
 
 ## Financement proposé
 

@@ -8,6 +8,8 @@
 
 ## Proposed funding
 
+- maximum 4 weeks of student job
+
 ## Deadline
 
 Requests must be submitted **simultaneously with the request to the CRECH**.

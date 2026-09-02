@@ -1,5 +1,7 @@
 # Support for scientific publications: Scientific collaboration award
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
 **Bonus for publishing a scientific article** in an internationally renowned journal or in the proceedings of a conference ranked A or A*.

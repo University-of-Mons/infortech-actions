@@ -20,6 +20,7 @@
    3. [Mobilité IN : bourse postdoctorale défiscalisée](actions_md/action_7_3_FR.md)
 8. [Visites de courte durée de chercheurs étrangers](actions_md/action_8_FR.md)
 9. [Intervention dans l'organisation des colloques](actions_md/action_9_FR.md)
+10. **Demande exceptionnelle**: Toute demande qui ne correspond pas à une des actions listées ci-dessus peut toujours être proposée au BDIR, qui analysera la demande en fonction du budget disponible et de l’adéquation avec les thématiques de recherche INFORTECH.
 
 ## Imputations INFORTECH à utiliser pour les demandes approuvées
 

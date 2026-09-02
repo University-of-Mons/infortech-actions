@@ -1,8 +1,10 @@
 # Bourse de fin de thèse
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
-**Bourse destinée à terminer une thèse effectuée par un doctorant à l'UMONS ayant bénéficié d'au moins 3 ans (mais moins de 4 ans) de financement de doctorat.**
+*Bourse destinée à terminer une thèse effectuée par un doctorant à l'UMONS ayant bénéficié d'au moins 3 ans (mais moins de 4 ans) de financement de doctorat.*
 
 Quelques exemples de cas typiques : (1) une thèse en co-tutelle avec la France a une durée de 3 années, et pourrait être étendue pour arriver à 4 années ; (2) un doctorant inscrit en thèse arrive à la fin d'un mandat de 3 ans financé par un projet européen ou FEDER-FSE.
 

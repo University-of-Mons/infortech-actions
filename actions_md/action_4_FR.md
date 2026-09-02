@@ -1,8 +1,10 @@
 # Bourse d'initiation à la recherche
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
-**Bourse d'initiation à la recherche (stage) visant à apporter une aide (par des étudiants en fin de cycle de bachelier) à des doctorants dans le cadre de leurs travaux de recherche.** Le stage aura une durée de 4 semaines (en continu ou en discontinu) durant l'été correspondant au passage de bachelier à master.
+*Bourse d'initiation à la recherche (stage) visant à apporter une aide (par des étudiants en fin de cycle de bachelier) à des doctorants dans le cadre de leurs travaux de recherche.* Le stage aura une durée de 4 semaines (en continu ou en discontinu) durant l'été correspondant au passage de bachelier à master.
 
 ## Financement proposé
 

@@ -1,4 +1,4 @@
-# Support for scientific publications: Support for Open Access publications
+# Support for Open Access publications
 
 [[Back to overview of all actions]](../README.md)
 

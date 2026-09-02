@@ -1,5 +1,7 @@
 # Support for scientific publications: Support for Open Access publications
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
 Financial support for **scientific publications in *Open Access*** in a journal or in the proceedings of an internationally renowned scientific conference.

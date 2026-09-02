@@ -1,8 +1,10 @@
 # Research initiation grant
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
-**Research initiation grant (internship) aimed at providing help (from students at the end of their bachelor's cycle) to doctoral students in the context of their research work.** The internship will last 4 weeks (continuous or non-continuous) during the summer corresponding to the transition from bachelor's to master's degree.
+**Student internship aimed at providing help (from students at the end of their bachelor's cycle) to doctoral students in the context of their research work.** The internship will last 4 weeks (continuous or non-continuous) during the summer corresponding to the transition from bachelor's to master's degree.
 
 ## Proposed funding
 

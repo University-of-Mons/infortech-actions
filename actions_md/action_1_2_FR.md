@@ -1,8 +1,10 @@
-# Soutien pour les publications scientifiques : Soutien de publications en Open Access
+# Soutien de publications scientifiques en Open Access
+
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
 
 ## Objectif
 
-Aide financière pour soutenir les **publications scientifiques en *Open Access*** dans une revue ou dans les proceedings d'une conférence scientifique de renommée internationale.
+Aide financière pour soutenir les *publications scientifiques en **Open Access*** dans une revue ou dans les proceedings d'une conférence scientifique de renommée internationale.
 
 ## Financement proposé
 

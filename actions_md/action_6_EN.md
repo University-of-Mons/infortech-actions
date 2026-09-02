@@ -1,14 +1,16 @@
-# Thesis completion grant
+# PhD thesis completion grant
+
+[[Back to overview of all actions]](../README.md)
 
 ## Objective
 
-**Grant intended to complete a thesis carried out by a doctoral student at UMONS who has benefited from at least 3 years (but less than 4 years) of doctoral funding.**
+*Grant intended to complete a thesis carried out by a doctoral student at UMONS who has benefited from at least 3 years (but less than 4 years) of doctoral funding.*
 
 A few examples of typical cases: (1) a co-supervised thesis with France lasts 3 years, and could be extended to reach 4 years; (2) a doctoral student enrolled in a thesis reaches the end of a 3-year mandate funded by a European or FEDER-FSE project.
 
 ## Proposed funding
 
-- Up to **6 months per request** for a tax-exempt thesis grant.
+- Up to **6 months per request** for a tax-exempt PhD scholarship.
 - Up to **3 months per request** for an employment contract.
 
 The department must find co-funding (e.g. from the department itself, the CRECH, another institute, a research project) for at least the same duration as that granted by INFORTECH.

@@ -1,8 +1,10 @@
 # Partially funded doctoral grant
 
+[[Back to overview of all actions]](../README.md)
+
 ## Objective
 
-**Partially funded doctoral grant enabling the rescue of a good candidate who submitted an eligible request as part of the CRECH call.**
+*Partially funded doctoral grant enabling the rescue of a good candidate who submitted an eligible request as part of the CRECH call.*
 
 ## Proposed funding
 

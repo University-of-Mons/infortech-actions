@@ -1,8 +1,11 @@
-# Mobilité IN/OUT : Mobilité OUT : séjour de recherche (pour doctorant ou post-doc)
+# Séjour de recherche à l'étranger (pour doctorant ou post-doc)
+
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
 
 ## Objectif
 
-**Intervention partielle dans le financement de doctorants ou post-docs INFORTECH désirant effectuer un séjour de recherche de longue durée (minimum un mois) dans une équipe de recherche à l'étranger.** Cette aide permet de compléter des demandes faites au FNRS et au CRECH ou d'autres sources de financement externes.
+*Intervention partielle dans le financement de doctorants ou post-docs INFORTECH désirant effectuer un séjour de recherche de longue durée (minimum un mois) dans une équipe de recherche à l'étranger.*
+Cette aide permet de compléter des demandes faites au FNRS et au CRECH ou d'autres sources de financement externes.
 
 ## Financement proposé
 

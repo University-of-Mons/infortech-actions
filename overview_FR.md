@@ -1,6 +1,8 @@
-# Actions de co-financement INFORTECH 2027
+# Actions de co-financement INFORTECH
 
 [[read English version here]](README.md)
+
+## Liste d'actions pour 2027
 
 1. Soutien pour les publications scientifiques
    1. [Prime à la collaboration scientifique](actions_md/action_1_1_FR.md)
@@ -18,3 +20,8 @@
    3. [Mobilité IN : bourse postdoctorale défiscalisée](actions_md/action_7_3_FR.md)
 8. [Visites de courte durée de chercheurs étrangers](actions_md/action_8_FR.md)
 9. [Intervention dans l'organisation des colloques](actions_md/action_9_FR.md)
+
+## Imputations INFORTECH à utiliser pour les demandes approuvées
+
+- Fonctionnement: R300PR001
+- Personnel: R300PRH01

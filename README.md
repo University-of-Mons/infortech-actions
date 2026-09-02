@@ -19,6 +19,7 @@
    3. [Mobility IN: tax-exempt postdoctoral grant](actions_md/action_7_3_EN.md)
 8. [Short-term visits of foreign researchers](actions_md/action_8_EN.md)
 9. [Support for organising conferences](actions_md/action_9_EN.md)
+10. **Exceptional requests**: Requests that do not correspond to one of the aforementioned actions  may still be submitted. The BDIR will review these requests based on available funding and their alignment with INFORTECH’s research themes.
 
 ## Internal accounts to be used for accepted requests
 

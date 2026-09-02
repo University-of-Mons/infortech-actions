@@ -1,5 +1,7 @@
 # Soutien pour les publications scientifiques : Prime à la collaboration scientifique
 
+[[Retour à l'ensemble d'actions]](../overview_FR.md)
+
 ## Objectif
 
 **Prime pour article scientifique** publié dans une revue de renommée internationale ou dans les actes d'un congrès avec ranking de A ou A*.

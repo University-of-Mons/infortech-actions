@@ -1,10 +1,10 @@
-# Soutien pour les publications scientifiques : Prime à la collaboration scientifique
+# Prime à la collaboration scientifique
 
 [[Retour à l'ensemble d'actions]](../overview_FR.md)
 
 ## Objectif
 
-**Prime pour article scientifique** publié dans une revue de renommée internationale ou dans les actes d'un congrès avec ranking de A ou A*.
+*Prime pour article scientifique* publié dans une revue de renommée internationale ou dans les actes d'un congrès avec ranking de A ou A*.
 Cette action a comme objectif de **promouvoir la collaboration scientifique** entre plusieurs équipes (intra- ou interuniversitaire) autour d'une des thématiques de recherche d'INFORTECH.
 
 ## Financement proposé
